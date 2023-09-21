@@ -1,0 +1,2 @@
+# ScalaBookRec
+Scala Book Recommender
